@@ -1,0 +1,2 @@
+sudo mn --topo single,6 --mac --arp --controller=remote
+
